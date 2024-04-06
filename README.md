@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=lijianye521&show_icons=true)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=lijianye521)
 - 🔭 I’m will work on wind
 - 🌱 I’m currently learning vue
 <!--
